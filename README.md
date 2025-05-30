@@ -46,11 +46,11 @@ As a tech enthusiast, I love working on innovative projects and continuously exp
 
 ## 🎯 Aspirations
 
-I aspire to become a **Cloud Engineer** and grow into an **AI Engineer**, combining intelligent systems with scalable cloud infrastructure to build futuristic applications.
+I aspire to become a **Cloud Engineer** and grow into an **AI Engineer**, combining intelligent systems with scalable cloud infrastructure to build futuristic Applications.
 
 ---
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/akash-boddu)  
-- 📧 akashboddu8688@gmail.com
+- 📧 akashboddu8688@gmail.com 
